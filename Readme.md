@@ -1,5 +1,7 @@
 # Yi-Yu-Gi-Oh! Pro-deck
 
+![gif](https://github.com/LuisCarlos-git/yi-yu-gi-oh-pro-deck/blob/master/yiyugioh.gif)
+
 ## Sobre
 
 Interface de pesquisa de cartas do universo de Yi-Yu-Gi-Oh! , onde o usuario busca por uma carta e tem a opçaõ de ver os detalhes da carta e suas outras artes e a opção de adicionar o card a seus favoritos.

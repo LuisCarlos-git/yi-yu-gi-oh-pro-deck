@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Interface de pesquisa de cartas do universo de Yi-Yu-Gi-Oh!,onde o usuário faz a busca por uma carta e tem a opçaõ de ver os detalhes da carta,suas outras artes e a opção de adicionar o card a seus favoritos.
+Interface de pesquisa de cartas do universo de Yi-Yu-Gi-Oh!,onde o usuário faz a busca por uma carta e tem a opção de ver os detalhes da carta,suas outras artes e a opção de adicionar o card a seus favoritos.
 
 Os cards favoritados permanecem salvos mesmo que o usuário saia ou recarregue a página,tornando a plataforma mais prática.
 
